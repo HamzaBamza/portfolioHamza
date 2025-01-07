@@ -1,0 +1,6 @@
+video {
+  width: 100%; /* Ensures the video takes up the full width of its container */
+  max-width: 500px; /* Adjust the max-width to make the video smaller */
+  height: auto; /* Maintains the aspect ratio */
+}
+/* koden blev rettet af chatgpt */
